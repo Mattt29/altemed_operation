@@ -1,0 +1,177 @@
+﻿id_engagement;ligne_no;type_ligne;id_operation;libelle_poste;id_fournisseur;objet;date_engagement;montant_ht
+EN0001;1;Marché initial;OP01;Études;F005;Étude 1;2022-12-04;489444,91
+EN0002;1;Marché initial;OP01;ETUDES;F001;Étude 2;2021-05-11;28683,85
+EN0003;1;Marché initial;OP01;Etudes préalables;F017;Étude 3;2025-02-18;189455,54
+EN0004;1;Marché initial;OP01;Acquisitions foncières;F032;Acquisition 1;2023-10-25;740327,34
+EN0004;2;Avenant 1;OP01;Acquisitions foncières;F032;Acquisition 1;2024-01-07;27399,14
+EN0005;1;Marché initial;OP01;ACQUISITIONS FONCIERES;F038;Acquisition 2;2024-09-17;1427176,76
+EN0006;1;Marché initial;OP01;ACQUISITIONS FONCIERES;F032;Acquisition 3;2025-03-21;37592,77
+EN0006;2;Avenant 1;OP01;ACQUISITIONS FONCIERES;F032;Acquisition 3;2025-06-13;4860,59
+EN0006;3;Avenant 2;OP01;ACQUISITIONS FONCIERES;F032;Acquisition 3;2025-10-07;3399,53
+EN0007;1;Marché initial;OP01;Acquisitions foncières;F008;Acquisition 4;2024-09-08;251796,97
+EN0007;2;Avenant 1;OP01;Acquisitions foncières;F008;Acquisition 4;2025-08-08;37069,32
+EN0007;3;Avenant 2;OP01;Acquisitions foncières;F008;Acquisition 4;2025-06-04;21595,6
+EN0008;1;Marché initial;OP01;ACQUISITIONS FONCIERES;F027;Acquisition 5;2021-10-13;2875950,19
+EN0008;2;Avenant 1;OP01;ACQUISITIONS FONCIERES;F027;Acquisition 5;2022-09-03;203577,24
+EN0009;1;Marché initial;OP01;Travaux de VRD;F021;Marché de travaux – lot 1;2024-07-31;1005055,24
+EN0010;1;Marché initial;OP01;TRAVAUX VRD;F002;Marché de travaux – lot 2;2022-08-06;130339,22
+EN0010;2;Avenant 1;OP01;TRAVAUX VRD;F002;Marché de travaux – lot 2;2023-05-01;11423,19
+EN0011;1;Marché initial;OP01;Travaux VRD;F001;Marché de travaux – lot 3;2022-02-02;8882993,08
+EN0012;1;Marché initial;OP01;Honoraires techniques;F003;Mission de maîtrise d'œuvre 1;2022-10-20;590426,36
+EN0013;1;Marché initial;OP01;HONORAIRES TECHNIQUES;F037;Mission de maîtrise d'œuvre 2;2026-04-01;85579,88
+EN0014;1;Marché initial;OP01;Honoraires techniques;F025;Mission de maîtrise d'œuvre 3;2024-08-12;842198,13
+EN0015;1;Marché initial;OP01;Divers;F027;Prestation 1;2025-06-10;175009,75
+EN0015;2;Avenant 1;OP01;Divers;F027;Prestation 1;2026-03-17;25752,37
+EN0016;1;Marché initial;OP02;Etudes préalables;F027;Étude 1;2023-06-25;634474,3
+EN0016;2;Avenant 1;OP02;Etudes préalables;F027;Étude 1;2023-10-05;20470,77
+EN0017;1;Marché initial;OP02;Foncier;F005;Acquisition 1;2022-11-22;933373,47
+EN0018;1;Marché initial;OP02;Foncier;F014;Acquisition 2;2024-10-15;1033667,03
+EN0019;1;Marché initial;OP02;Acquisitions foncières;F037;Acquisition 3;2023-01-31;1496318,41
+EN0019;2;Avenant 1;OP02;Acquisitions foncières;F037;Acquisition 3;2023-12-15;125009,21
+EN0019;3;Avenant 2;OP02;Acquisitions foncières;F037;Acquisition 3;2023-06-26;138603,14
+EN0020;1;Marché initial;OP02;Travaux VRD;F009;Marché de travaux – lot 1;2023-07-01;467320,51
+EN0020;2;Avenant 1;OP02;Travaux VRD;F009;Marché de travaux – lot 1;2024-02-05;52916,01
+EN0021;1;Marché initial;OP02;TRAVAUX VRD;F013;Marché de travaux – lot 2;2025-11-10;4190581,03
+EN0021;2;Avenant 1;OP02;TRAVAUX VRD;F013;Marché de travaux – lot 2;2026-08-16;316066,26
+EN0022;1;Marché initial;OP02;VRD - travaux;F033;Marché de travaux – lot 3;2023-12-26;18904,73
+EN0023;1;Marché initial;OP02;Travaux de VRD;F028;Marché de travaux – lot 4;2025-05-24;159190,73
+EN0024;1;Marché initial;OP02;Travaux VRD;F017;Marché de travaux – lot 5;2024-04-24;2109496,64
+EN0024;2;Avenant 1;OP02;Travaux VRD;F017;Marché de travaux – lot 5;2025-04-09;225916,93
+EN0025;1;Marché initial;OP02;HONORAIRES TECHNIQUES;F035;Mission de maîtrise d'œuvre 1;2023-09-18;107091,81
+EN0025;2;Avenant 1;OP02;HONORAIRES TECHNIQUES;F035;Mission de maîtrise d'œuvre 1;2024-01-27;15138,8
+EN0026;1;Marché initial;OP02;Honoraires techniques;F033;Mission de maîtrise d'œuvre 2;2023-05-23;528649,23
+EN0027;1;Marché initial;OP02;Honoraires techniques;F007;Mission de maîtrise d'œuvre 3;2022-11-15;409175,39
+EN0028;1;Marché initial;OP02;HONORAIRES TECHNIQUES;F032;Mission de maîtrise d'œuvre 4;2022-10-05;313561,72
+EN0028;2;Avenant 1;OP02;HONORAIRES TECHNIQUES;F032;Mission de maîtrise d'œuvre 4;2022-12-08;14265,63
+EN0028;3;Avenant 2;OP02;HONORAIRES TECHNIQUES;F032;Mission de maîtrise d'œuvre 4;2023-03-29;22377,58
+EN0029;1;Marché initial;OP02;Aléas et divers;F006;Prestation 1;2023-03-16;58817,01
+EN0030;1;Marché initial;OP02;Aléas;F001;Prestation 2;2023-12-30;105544,78
+EN0030;2;Avenant 1;OP02;Aléas;F001;Prestation 2;2024-04-26;14099,22
+EN0030;3;Avenant 2;OP02;Aléas;F001;Prestation 2;2024-10-04;4144,2
+EN0031;1;Marché initial;OP03;Etudes préalables;F036;Étude 1;2025-09-25;224240,35
+EN0031;2;Avenant 1;OP03;Etudes préalables;F036;Étude 1;2026-01-24;28253,83
+EN0032;1;Marché initial;OP03;ACQUISITIONS FONCIERES;F020;Acquisition 1;2025-01-16;451868,95
+EN0032;2;Avenant 1;OP03;ACQUISITIONS FONCIERES;F020;Acquisition 1;2026-01-30;48093,08
+EN0033;1;Marché initial;OP03;Acquisitions foncières;F011;Acquisition 2;2024-03-17;222579,21
+EN0034;1;Marché initial;OP03;Foncier;F009;Acquisition 3;2023-05-01;738052,44
+EN0035;1;Marché initial;OP03;Foncier;F024;Acquisition 4;2024-07-14;219760,98
+EN0036;1;Marché initial;OP03;TRAVAUX VRD;F008;Marché de travaux – lot 1;2023-06-18;32393,06
+EN0036;2;Avenant 1;OP03;TRAVAUX VRD;F008;Marché de travaux – lot 1;2023-12-18;4286,68
+EN0036;3;Avenant 2;OP03;TRAVAUX VRD;F008;Marché de travaux – lot 1;2023-12-10;3429,68
+EN0037;1;Marché initial;OP03;TRAVAUX VRD;F006;Marché de travaux – lot 2;2024-05-05;257554,69
+EN0037;2;Avenant 1;OP03;TRAVAUX VRD;F006;Marché de travaux – lot 2;2024-12-30;12946,83
+EN0038;1;Marché initial;OP03;Travaux VRD;F025;Marché de travaux – lot 3;2026-07-27;554732,07
+EN0039;1;Marché initial;OP03;Travaux de VRD;F001;Marché de travaux – lot 4;2023-11-30;773501,54
+EN0040;1;Marché initial;OP03;Travaux VRD;F009;Marché de travaux – lot 5;2025-10-11;674060,71
+EN0040;2;Avenant 1;OP03;Travaux VRD;F009;Marché de travaux – lot 5;2026-06-30;32789,02
+EN0041;1;Marché initial;OP03;Travaux VRD;F034;Marché de travaux – lot 6;2024-10-14;143068,81
+EN0041;2;Avenant 1;OP03;Travaux VRD;F034;Marché de travaux – lot 6;2025-06-17;6705,16
+EN0042;1;Marché initial;OP03;Honoraires;F024;Mission de maîtrise d'œuvre 1;2026-06-12;336875,39
+EN0043;1;Marché initial;OP03;HONORAIRES TECHNIQUES;F022;Mission de maîtrise d'œuvre 2;2024-07-30;16752,21
+EN0043;2;Avenant 1;OP03;HONORAIRES TECHNIQUES;F022;Mission de maîtrise d'œuvre 2;2025-02-05;1043,11
+EN0044;1;Marché initial;OP03;HONORAIRES TECHNIQUES;F005;Mission de maîtrise d'œuvre 3;2024-06-15;7735,06
+EN0045;1;Marché initial;OP03;Honoraires techniques;F011;Mission de maîtrise d'œuvre 4;2023-06-18;95571,85
+EN0046;1;Marché initial;OP03;Divers;F022;Prestation 1;2025-05-10;115861,32
+EN0046;2;Avenant 1;OP03;Divers;F022;Prestation 1;2026-01-18;9249,83
+EN0047;1;Marché initial;OP03;Aléas et divers;F012;Prestation 2;2023-04-05;62385,58
+EN0048;1;Marché initial;OP04;ETUDES;F015;Étude 1;2021-02-10;967834,68
+EN0049;1;Marché initial;OP04;Acquisitions foncières;F016;Acquisition 1;2025-07-15;1984573,5
+EN0049;2;Avenant 1;OP04;Acquisitions foncières;F016;Acquisition 1;2026-01-08;76887,31
+EN0050;1;Marché initial;OP04;Foncier;F021;Acquisition 2;2026-01-15;3865279,46
+EN0051;1;Marché initial;OP04;TRAVAUX VRD;F034;Marché de travaux – lot 1;2022-11-01;4206211,35
+EN0052;1;Marché initial;OP04;TRAVAUX VRD;F008;Marché de travaux – lot 2;2020-11-22;1742302,17
+EN0053;1;Marché initial;OP04;Travaux de VRD;F004;Marché de travaux – lot 3;2023-02-14;153622,23
+EN0053;2;Avenant 1;OP04;Travaux de VRD;F004;Marché de travaux – lot 3;2023-06-26;8162,05
+EN0053;3;Avenant 2;OP04;Travaux de VRD;F004;Marché de travaux – lot 3;2023-11-02;20474,64
+EN0054;1;Marché initial;OP04;Travaux de VRD;F036;Marché de travaux – lot 4;2023-02-19;4811757,65
+EN0055;1;Marché initial;OP04;TRAVAUX VRD;F037;Marché de travaux – lot 5;2023-02-12;173340,62
+EN0055;2;Avenant 1;OP04;TRAVAUX VRD;F037;Marché de travaux – lot 5;2023-08-30;18980,66
+EN0056;1;Marché initial;OP04;Travaux VRD;F040;Marché de travaux – lot 6;2021-02-10;3868999,33
+EN0056;2;Avenant 1;OP04;Travaux VRD;F040;Marché de travaux – lot 6;2021-06-24;576961,42
+EN0057;1;Marché initial;OP04;Honoraires techniques;F006;Mission de maîtrise d'œuvre 1;2025-03-05;153073,76
+EN0057;2;Avenant 1;OP04;Honoraires techniques;F006;Mission de maîtrise d'œuvre 1;2025-08-23;7999,3
+EN0058;1;Marché initial;OP04;HONORAIRES TECHNIQUES;F028;Mission de maîtrise d'œuvre 2;2026-07-02;2076768,21
+EN0059;1;Marché initial;OP04;Aléas;F025;Prestation 1;2023-04-13;138221,31
+EN0059;2;Avenant 1;OP04;Aléas;F025;Prestation 1;2023-11-20;17512,23
+EN0060;1;Marché initial;OP04;Aléas;F028;Prestation 2;2022-12-31;323096,87
+EN0060;2;Avenant 1;OP04;Aléas;F028;Prestation 2;2023-11-01;20447,0
+EN0061;1;Marché initial;OP05;Etudes préalables;F007;Étude 1;2025-01-25;159583,12
+EN0061;2;Avenant 1;OP05;Etudes préalables;F007;Étude 1;2025-08-11;5512,65
+EN0062;1;Marché initial;OP05;Etudes préalables;F007;Étude 2;2025-03-19;117126,47
+EN0063;1;Marché initial;OP05;Etudes préalables;F016;Étude 3;2024-10-28;145110,98
+EN0064;1;Marché initial;OP05;Foncier;F020;Acquisition 1;2026-02-15;367226,85
+EN0065;1;Marché initial;OP05;ACQUISITIONS FONCIERES;F015;Acquisition 2;2024-01-16;1890807,09
+EN0066;1;Marché initial;OP05;Acquisitions foncières;F016;Acquisition 3;2025-06-01;90487,01
+EN0067;1;Marché initial;OP05;ACQUISITIONS FONCIERES;F009;Acquisition 4;2023-10-16;623985,8
+EN0068;1;Marché initial;OP05;Acquisitions foncières;F033;Acquisition 5;2022-07-29;41925,48
+EN0069;1;Marché initial;OP05;TRAVAUX VRD;F019;Marché de travaux – lot 1;2024-01-19;847268,02
+EN0070;1;Marché initial;OP05;Travaux de VRD;F029;Marché de travaux – lot 2;2022-04-12;2753086,6
+EN0071;1;Marché initial;OP05;TRAVAUX VRD;F013;Marché de travaux – lot 3;2023-11-27;849182,29
+EN0072;1;Marché initial;OP05;VRD - travaux;F034;Marché de travaux – lot 4;2024-07-09;176820,71
+EN0072;2;Avenant 1;OP05;VRD - travaux;F034;Marché de travaux – lot 4;2024-09-15;7918,42
+EN0073;1;Marché initial;OP05;VRD - travaux;F013;Marché de travaux – lot 5;2025-09-20;495190,58
+EN0074;1;Marché initial;OP05;Travaux de VRD;F010;Marché de travaux – lot 6;2023-09-14;19024,62
+EN0075;1;Marché initial;OP05;HONORAIRES TECHNIQUES;F005;Mission de maîtrise d'œuvre 1;2025-06-01;527380,04
+EN0076;1;Marché initial;OP05;Honoraires techniques;F027;Mission de maîtrise d'œuvre 2;2025-02-27;353558,22
+EN0077;1;Marché initial;OP05;Aléas et divers;F004;Prestation 1;2025-05-02;124829,2
+EN0078;1;Marché initial;OP06;Etudes préalables;F031;Étude 1;2026-03-25;163206,26
+EN0079;1;Marché initial;OP06;Etudes préalables;F022;Étude 2;2024-06-25;45230,79
+EN0080;1;Marché initial;OP06;Acquisitions foncières;F018;Acquisition 1;2026-04-16;48655,9
+EN0081;1;Marché initial;OP06;Foncier;F038;Acquisition 2;2026-07-06;445554,31
+EN0082;1;Marché initial;OP06;ACQUISITIONS FONCIERES;F016;Acquisition 3;2024-08-10;726255,86
+EN0083;1;Marché initial;OP06;Travaux VRD;F029;Marché de travaux – lot 1;2024-10-17;44201,32
+EN0083;2;Avenant 1;OP06;Travaux VRD;F029;Marché de travaux – lot 1;2025-05-31;3165,31
+EN0084;1;Marché initial;OP06;VRD - travaux;F010;Marché de travaux – lot 2;2024-12-07;700742,33
+EN0084;2;Avenant 1;OP06;VRD - travaux;F010;Marché de travaux – lot 2;2025-05-26;29663,8
+EN0085;1;Marché initial;OP06;Travaux de VRD;F009;Marché de travaux – lot 3;2025-05-05;461316,23
+EN0086;1;Marché initial;OP06;Travaux de VRD;F027;Marché de travaux – lot 4;2024-09-01;591479,55
+EN0087;1;Marché initial;OP06;TRAVAUX VRD;F011;Marché de travaux – lot 5;2025-03-15;119916,16
+EN0088;1;Marché initial;OP06;Travaux de VRD;F017;Marché de travaux – lot 6;2026-04-02;81430,02
+EN0088;2;Avenant 1;OP06;Travaux de VRD;F017;Marché de travaux – lot 6;2026-06-12;3960,99
+EN0089;1;Marché initial;OP06;Honoraires techniques;F025;Mission de maîtrise d'œuvre 1;2025-01-25;21898,55
+EN0090;1;Marché initial;OP06;Honoraires;F039;Mission de maîtrise d'œuvre 2;2025-12-23;141782,38
+EN0091;1;Marché initial;OP06;HONORAIRES TECHNIQUES;F006;Mission de maîtrise d'œuvre 3;2024-08-03;109291,33
+EN0091;2;Avenant 1;OP06;HONORAIRES TECHNIQUES;F006;Mission de maîtrise d'œuvre 3;2025-07-04;3386,75
+EN0092;1;Marché initial;OP06;Honoraires techniques;F015;Mission de maîtrise d'œuvre 4;2024-10-06;100033,76
+EN0092;2;Avenant 1;OP06;Honoraires techniques;F015;Mission de maîtrise d'œuvre 4;2025-10-05;12534,2
+EN0093;1;Marché initial;OP06;Aléas et divers;F023;Prestation 1;2026-05-22;110983,14
+EN0094;1;Marché initial;OP07;Études;F028;Étude 1;2024-06-13;107945,15
+EN0095;1;Marché initial;OP07;ETUDES;F030;Étude 2;2024-02-29;23801,82
+EN0096;1;Marché initial;OP07;Etudes préalables;F026;Étude 3;2025-07-27;195342,22
+EN0096;2;Avenant 1;OP07;Etudes préalables;F026;Étude 3;2025-11-24;9218,8
+EN0097;1;Marché initial;OP07;Acquisitions foncières;F036;Acquisition 1;2025-06-05;846355,92
+EN0098;1;Marché initial;OP07;ACQUISITIONS FONCIERES;F002;Acquisition 2;2024-04-05;1456427,4
+EN0099;1;Marché initial;OP07;Travaux VRD;F024;Marché de travaux – lot 1;2026-07-29;228297,49
+EN0100;1;Marché initial;OP07;VRD - travaux;F007;Marché de travaux – lot 2;2025-05-01;1477679,62
+EN0101;1;Marché initial;OP07;TRAVAUX VRD;F021;Marché de travaux – lot 3;2024-05-09;1850371,32
+EN0101;2;Avenant 1;OP07;TRAVAUX VRD;F021;Marché de travaux – lot 3;2025-05-02;263769,4
+EN0102;1;Marché initial;OP07;HONORAIRES TECHNIQUES;F032;Mission de maîtrise d'œuvre 1;2023-11-09;671178,1
+EN0102;2;Avenant 1;OP07;HONORAIRES TECHNIQUES;F032;Mission de maîtrise d'œuvre 1;2024-03-15;56190,82
+EN0103;1;Marché initial;OP07;Honoraires;F029;Mission de maîtrise d'œuvre 2;2024-12-13;23467,79
+EN0103;2;Avenant 1;OP07;Honoraires;F029;Mission de maîtrise d'œuvre 2;2025-11-26;973,23
+EN0104;1;Marché initial;OP07;Honoraires techniques;F025;Mission de maîtrise d'œuvre 3;2026-07-07;169298,66
+EN0105;1;Marché initial;OP07;Divers;F023;Prestation 1;2024-03-18;123667,36
+EN0105;2;Avenant 1;OP07;Divers;F023;Prestation 1;2024-07-30;8646,74
+EN0106;1;Marché initial;OP08;Études;F036;Étude 1;2025-08-24;318835,25
+EN0107;1;Marché initial;OP08;ACQUISITIONS FONCIERES;F037;Acquisition 1;2026-05-02;83563,32
+EN0107;2;Avenant 1;OP08;ACQUISITIONS FONCIERES;F037;Acquisition 1;2026-07-29;3663,68
+EN0108;1;Marché initial;OP08;ACQUISITIONS FONCIERES;F007;Acquisition 2;2025-12-23;777646,94
+EN0108;2;Avenant 1;OP08;ACQUISITIONS FONCIERES;F007;Acquisition 2;2026-07-06;48307,58
+EN0109;1;Marché initial;OP08;ACQUISITIONS FONCIERES;F025;Acquisition 3;2025-11-09;1074057,04
+EN0110;1;Marché initial;OP08;VRD - travaux;F027;Marché de travaux – lot 1;2025-05-14;138722,36
+EN0110;2;Avenant 1;OP08;VRD - travaux;F027;Marché de travaux – lot 1;2026-02-18;10550,45
+EN0111;1;Marché initial;OP08;Travaux VRD;F024;Marché de travaux – lot 2;2024-11-17;2451441,64
+EN0111;2;Avenant 1;OP08;Travaux VRD;F024;Marché de travaux – lot 2;2025-09-12;161252,89
+EN0111;3;Avenant 2;OP08;Travaux VRD;F024;Marché de travaux – lot 2;2025-04-12;338439,05
+EN0112;1;Marché initial;OP08;VRD - travaux;F039;Marché de travaux – lot 3;2025-02-26;69084,44
+EN0113;1;Marché initial;OP08;TRAVAUX VRD;F020;Marché de travaux – lot 4;2026-02-03;178884,01
+EN0114;1;Marché initial;OP08;Travaux VRD;F032;Marché de travaux – lot 5;2026-07-17;506570,78
+EN0115;1;Marché initial;OP08;Travaux VRD;F009;Marché de travaux – lot 6;2025-03-20;133827,9
+EN0116;1;Marché initial;OP08;Honoraires;F030;Mission de maîtrise d'œuvre 1;2025-07-04;101838,21
+EN0116;2;Avenant 1;OP08;Honoraires;F030;Mission de maîtrise d'œuvre 1;2026-07-04;8761,26
+EN0117;1;Marché initial;OP08;Honoraires;F010;Mission de maîtrise d'œuvre 2;2025-11-04;341169,48
+EN0117;2;Avenant 1;OP08;Honoraires;F010;Mission de maîtrise d'œuvre 2;2026-01-29;47379,16
+EN0118;1;Marché initial;OP08;Honoraires;F024;Mission de maîtrise d'œuvre 3;2026-06-09;70810,69
+EN0119;1;Marché initial;OP08;HONORAIRES TECHNIQUES;F018;Mission de maîtrise d'œuvre 4;2026-02-11;151495,26
+EN0120;1;Marché initial;OP08;Divers;F015;Prestation 1;2025-08-19;98300,73
+EN0120;2;Avenant 1;OP08;Divers;F015;Prestation 1;2026-07-15;11285,16

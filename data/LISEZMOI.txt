@@ -1,0 +1,32 @@
+CAS — SUIVI OPÉRATIONNEL D'OPÉRATIONS D'AMÉNAGEMENT
+===================================================
+
+Données FICTIVES : opérations, fournisseurs et responsables sont inventés. Date de référence :
+02/10/2026. Tous les montants sont en euros hors taxes, sauf mention contraire.
+
+Format : CSV UTF-8, séparateur point-virgule, virgule décimale, dates AAAA-MM-JJ.
+
+operations.csv
+  id_operation, nom_operation, type_operation, responsable (code RO-xx), date_debut, date_fin_prevue
+
+lots.csv
+  id_lot, id_operation, ilot, usage, surface_plancher_m2, prix_cession_ht,
+  statut_commercial (Vendu, Sous compromis, Réservé, Disponible), date_cession
+
+budgets.csv
+  id_operation, code_poste, libelle_poste, annee, version, date_version, montant_budget_ht
+
+engagements.csv
+  id_engagement, ligne_no, type_ligne, id_operation, libelle_poste, id_fournisseur, objet,
+  date_engagement, montant_ht
+
+factures.csv
+  id_facture, id_operation, id_engagement, code_poste, id_fournisseur, date_facture,
+  type_piece (Facture ou Avoir), montant_ht, taux_tva, montant_tva, montant_ttc, statut_paiement
+
+jalons.csv
+  id_jalon, id_operation, ordre, libelle_jalon, date_prevue_initiale, date_prevue_actuelle,
+  date_reelle, statut
+
+Les tables ne sont volontairement pas accompagnées d'un dictionnaire plus détaillé : décrire ce que
+vous comprenez de chaque table et de chaque colonne fait partie du travail demandé.

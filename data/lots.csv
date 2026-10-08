@@ -1,0 +1,151 @@
+﻿id_lot;id_operation;ilot;usage;surface_plancher_m2;prix_cession_ht;statut_commercial;date_cession
+OP01-L001;OP01;I1;Logement social;3959;657363,0;Réservé;
+OP01-L002;OP01;I2;Logement social;1618;;Disponible;
+OP01-L003;OP01;I4;Équipement public;4413;0,0;Vendu;
+OP01-L004;OP01;I6;Accession abordable;847;203934,0;Vendu;2025-09-28
+OP01-L005;OP01;I1;Logement libre;857;263317,0;Sous compromis;
+OP01-L006;OP01;I8;Accession abordable;1109;281065,0;Réservé;
+OP01-L007;OP01;I7;Équipement public;2732;0,0;Vendu;2026-07-10
+OP01-L008;OP01;I6;Activité;3581;798898,0;Vendu;2025-03-16
+OP01-L009;OP01;I5;Logement libre;2561;871325,0;Vendu;2025-01-12
+OP01-L010;OP01;I4;Logement social;3123;581237,0;Vendu;2026-03-25
+OP01-L011;OP01;I3;Équipement public;5923;0,0;Vendu;2024-12-28
+OP01-L012;OP01;I5;Logement libre;1628;558469,0;Réservé;
+OP01-L013;OP01;I2;Logement libre;2809;862585,0;Vendu;
+OP01-L014;OP01;I6;Accession abordable;2882;785712,0;Vendu;
+OP01-L015;OP01;I5;Logement libre;895;;Disponible;
+OP01-L016;OP01;I6;Logement libre;2355;728400,0;Réservé;
+OP01-L017;OP01;I6;Accession abordable;4021;1017003,0;Sous compromis;
+OP01-L018;OP01;I3;Logement libre;4071;1215524,0;Vendu;2024-01-15
+OP01-L019;OP01;I2;Accession abordable;839;213560,0;Vendu;2023-09-06
+OP01-L020;OP01;I4;Logement social;2692;;Disponible;
+OP01-L021;OP01;I2;Activité;867;0,0;Vendu;2024-12-29
+OP01-L022;OP01;I7;Logement libre;3232;972166,0;Vendu;2025-06-10
+OP02-L001;OP02;I3;Accession abordable;2194;584057,0;Réservé;
+OP02-L002;OP02;I5;Logement social;2368;;Disponible;
+OP02-L003;OP02;I1;Accession abordable;3238;782884,0;Vendu;2024-11-27
+OP02-L004;OP02;I4;Équipement public;3366;0,0;Vendu;2026-06-21
+OP02-L005;OP02;I7;Logement social;2880;;Disponible;
+OP02-L006;OP02;I8;Accession abordable;4034;;Disponible;
+OP02-L007;OP02;I7;Logement libre;3866;1216891,0;Vendu;2026-08-05
+OP02-L008;OP02;I4;Logement social;2703;521681,0;Vendu;2024-12-30
+OP02-L009;OP02;I6;Logement libre;3831;;Disponible;
+OP02-L010;OP02;I5;Activité;2993;;Disponible;
+OP02-L011;OP02;I7;Équipement public;2400;0,0;Vendu;2026-02-15
+OP02-L012;OP02;I3;Activité;3521;738312,0;Vendu;2025-06-06
+OP02-L013;OP02;I3;Logement libre;1451;453753,0;Vendu;2025-09-22
+OP02-L014;OP02;I5;Logement libre;2838;;Disponible;
+OP02-L015;OP02;I3;Équipement public;5916;;Disponible;
+OP02-L016;OP02;I1;Accession abordable;2509;620162,0;Vendu;2026-01-26
+OP02-L017;OP02;I4;Logement libre;3911;1161618,0;Sous compromis;
+OP02-L018;OP02;I2;Activité;1287;266648,0;Vendu;2026-02-05
+OP03-L001;OP03;I4;Logement social;2104;401916,0;Vendu;2025-10-07
+OP03-L002;OP03;I3;Équipement public;4992;;Disponible;
+OP03-L003;OP03;I3;Accession abordable;3378;922284,0;Vendu;2025-07-18
+OP03-L004;OP03;I7;Logement libre;972;327929,0;Vendu;2026-06-20
+OP03-L005;OP03;I4;Accession abordable;3015;769903,0;Vendu;2026-07-04
+OP03-L006;OP03;I2;Activité;3276;709927,0;Vendu;2026-09-02
+OP03-L007;OP03;I7;Logement social;2769;511827,0;Vendu;2025-10-02
+OP03-L008;OP03;I8;Logement libre;2030;658781,0;Vendu;2025-11-10
+OP03-L009;OP03;I7;Logement libre;2886;;Disponible;
+OP03-L010;OP03;I2;Logement social;1957;362516,0;Vendu;2025-07-03
+OP03-L011;OP03;I3;Équipement public;4715;0,0;Vendu;2025-07-25
+OP03-L012;OP03;I6;Logement libre;4117;1399455,0;Sous compromis;
+OP03-L013;OP03;I4;Activité;1603;359905,0;Vendu;2025-12-28
+OP03-L014;OP03;I2;Logement social;2003;339582,0;Vendu;2026-03-17
+OP03-L015;OP03;I1;Accession abordable;890;231723,0;Vendu;2025-11-30
+OP03-L016;OP03;I8;Logement social;1246;233461,0;Vendu;2025-11-14
+OP03-L017;OP03;I8;Activité;1817;;Disponible;
+OP03-L018;OP03;I7;Équipement public;3929;0,0;Vendu;2026-08-21
+OP03-L019;OP03;I7;Logement social;3694;672772,0;Vendu;2026-07-20
+OP03-L020;OP03;I1;Logement libre;2582;;Disponible;
+OP03-L021;OP03;I4;Logement libre;4051;1236959,0;Vendu;2026-03-14
+OP03-L022;OP03;I4;Logement libre;3062;0,0;Vendu;2025-09-30
+OP03-L023;OP03;I3;Logement libre;852;292331,0;Vendu;2026-07-30
+OP03-L024;OP03;I2;Activité;1628;344802,0;Sous compromis;
+OP03-L025;OP03;I2;Logement libre;976;309029,0;Sous compromis;
+OP03-L026;OP03;I2;Logement libre;1114;351261,0;Vendu;2026-05-16
+OP03-L027;OP03;I1;Logement libre;1572;494743,0;Sous compromis;
+OP03-L028;OP03;I3;Équipement public;2223;0,0;Vendu;2026-03-12
+OP04-L001;OP04;I5;Logement libre;3566;1057081,0;Vendu;2023-04-26
+OP04-L002;OP04;I5;Activité;606;127655,0;Vendu;2025-08-13
+OP04-L003;OP04;I3;Logement social;4099;764952,0;Vendu;2025-06-28
+OP04-L004;OP04;I2;Activité;3635;717714,0;Vendu;2023-02-19
+OP04-L005;OP04;I5;Activité;2703;605623,0;Vendu;2025-08-17
+OP04-L006;OP04;I5;Logement libre;1630;;Disponible;
+OP04-L007;OP04;I7;Logement libre;4016;;Disponible;
+OP04-L008;OP04;I6;Activité;2002;;Disponible;
+OP04-L009;OP04;I2;Logement libre;3838;1172621,0;Vendu;2023-02-27
+OP04-L010;OP04;I8;Logement social;2950;494639,0;Vendu;2024-12-09
+OP04-L011;OP04;I3;Accession abordable;3932;1086816,0;Sous compromis;
+OP04-L012;OP04;I1;Accession abordable;3394;825830,0;Vendu;2024-09-27
+OP04-L013;OP04;I5;Équipement public;4446;0,0;Réservé;
+OP04-L014;OP04;I1;Logement social;2904;524644,0;Vendu;2025-07-14
+OP04-L015;OP04;I5;Activité;1902;419893,0;Vendu;2025-09-20
+OP04-L016;OP04;I6;Accession abordable;3331;;Disponible;
+OP04-L017;OP04;I6;Accession abordable;1501;364840,0;Vendu;2023-09-26
+OP04-L018;OP04;I7;Logement libre;3531;1091046,0;Vendu;2025-04-20
+OP04-L019;OP04;I1;Accession abordable;3136;750665,0;Réservé;
+OP04-L020;OP04;I1;Logement social;1987;334374,0;Vendu;2026-07-26
+OP04-L021;OP04;I4;Équipement public;2791;0,0;Vendu;2024-06-09
+OP04-L022;OP04;I2;Équipement public;5339;0,0;Sous compromis;
+OP04-L023;OP04;I7;Logement social;642;120823,0;Vendu;2024-08-05
+OP04-L024;OP04;I8;Accession abordable;2933;;Disponible;
+OP05-L001;OP05;I7;Accession abordable;895;;Disponible;
+OP05-L002;OP05;I2;Logement libre;3577;1111244,0;Vendu;2026-08-28
+OP05-L003;OP05;I6;Accession abordable;1393;;Disponible;
+OP05-L004;OP05;I1;Activité;1536;299052,0;Réservé;
+OP05-L005;OP05;I2;Logement social;4162;690410,0;Réservé;
+OP05-L006;OP05;I2;Accession abordable;1393;379331,0;Sous compromis;
+OP05-L007;OP05;I7;Logement social;2767;520551,0;Réservé;
+OP05-L008;OP05;I1;Accession abordable;1543;;Disponible;
+OP05-L009;OP05;I4;Logement social;2218;0,0;Vendu;2025-11-09
+OP05-L010;OP05;I3;Logement libre;2840;910729,0;Réservé;
+OP05-L011;OP05;I4;Logement social;3037;;Disponible;
+OP05-L012;OP05;I6;Logement social;1401;;Disponible;
+OP05-L013;OP05;I3;Accession abordable;1431;363156,0;Vendu;2024-11-24
+OP05-L014;OP05;I4;Logement libre;1152;;Disponible;
+OP06-L001;OP06;I2;Équipement public;4129;;Disponible;
+OP06-L002;OP06;I6;Logement social;1822;;Disponible;
+OP06-L003;OP06;I1;Logement social;2366;407904,0;Sous compromis;
+OP06-L004;OP06;I5;Équipement public;3299;;Disponible;
+OP06-L005;OP06;I7;Logement social;4075;741149,0;Vendu;2026-08-30
+OP06-L006;OP06;I4;Équipement public;2022;0,0;Vendu;2026-08-27
+OP06-L007;OP06;I7;Accession abordable;1579;441358,0;Sous compromis;
+OP06-L008;OP06;I7;Accession abordable;3816;1019183,0;Vendu;2026-08-12
+OP06-L009;OP06;I1;Accession abordable;1692;440965,0;Réservé;
+OP06-L010;OP06;I7;Équipement public;2249;;Disponible;
+OP06-L011;OP06;I3;Logement libre;1849;;Disponible;
+OP06-L012;OP06;I7;Accession abordable;3044;771894,0;Vendu;2026-08-04
+OP06-L013;OP06;I1;Accession abordable;1556;431425,0;Vendu;2026-09-26
+OP06-L014;OP06;I5;Accession abordable;1261;341819,0;Vendu;2026-09-08
+OP06-L015;OP06;I5;Logement libre;3055;924704,0;Vendu;2026-07-28
+OP06-L016;OP06;I8;Équipement public;2348;0,0;Vendu;2026-09-18
+OP06-L017;OP06;I4;Logement libre;2107;659117,0;Vendu;2026-08-06
+OP06-L018;OP06;I3;Activité;4149;812384,0;Vendu;2026-07-26
+OP06-L019;OP06;I5;Équipement public;1661;0,0;Sous compromis;
+OP06-L020;OP06;I3;Accession abordable;1742;458750,0;Vendu;2026-09-24
+OP06-L021;OP06;I6;Activité;2084;443741,0;Vendu;2026-09-14
+OP06-L022;OP06;I4;Logement libre;3469;1080909,0;Vendu;2026-09-25
+OP06-L023;OP06;I6;Logement social;754;127128,0;Vendu;2026-08-13
+OP06-L024;OP06;I7;Logement libre;2085;643158,0;Vendu;2026-08-28
+OP06-L025;OP06;I1;Activité;2134;469398,0;Vendu;2026-07-26
+OP06-L026;OP06;I2;Activité;3590;0,0;Vendu;2026-10-01
+OP07-L001;OP07;I2;Accession abordable;1008;242493,0;Sous compromis;
+OP07-L002;OP07;I3;Logement libre;823;;Disponible;
+OP07-L003;OP07;I8;Accession abordable;2678;;Disponible;
+OP07-L004;OP07;I6;Logement social;3803;;Disponible;
+OP07-L005;OP07;I6;Logement social;3598;689281,0;Vendu;2026-06-10
+OP07-L006;OP07;I7;Logement social;851;;Disponible;
+OP07-L007;OP07;I4;Logement libre;2008;598570,0;Vendu;2026-07-18
+OP07-L008;OP07;I8;Équipement public;3615;0,0;Vendu;2026-04-12
+OP07-L009;OP07;I7;Accession abordable;2230;;Disponible;
+OP07-L010;OP07;I2;Logement social;2886;;Disponible;
+OP08-L001;OP08;I6;Logement social;1570;277025,0;Sous compromis;
+OP08-L002;OP08;I2;Logement libre;2624;;Disponible;
+OP08-L003;OP08;I2;Activité;3439;;Disponible;
+OP08-L004;OP08;I3;Accession abordable;1923;;Disponible;
+OP08-L005;OP08;I5;Logement social;826;151622,0;Sous compromis;
+OP08-L006;OP08;I7;Logement libre;615;204414,0;Vendu;2026-10-02
+OP08-L007;OP08;I4;Accession abordable;1467;;Disponible;
+OP08-L008;OP08;I2;Équipement public;5847;0,0;Vendu;2026-10-02

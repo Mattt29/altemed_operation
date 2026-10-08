@@ -1,0 +1,73 @@
+﻿id_jalon;id_operation;ordre;libelle_jalon;date_prevue_initiale;date_prevue_actuelle;date_reelle;statut
+OP01-J01;OP01;1;Acquisition foncière principale;2021-03-01;2021-03-01;2021-03-04;Réalisé
+OP01-J02;OP01;2;Concession / autorisation signée;2021-10-12;2021-10-12;2021-10-30;Réalisé
+OP01-J03;OP01;3;Permis d'aménager;2022-05-26;2022-06-25;2022-07-12;Réalisé
+OP01-J04;OP01;4;Démarrage des travaux VRD;2022-12-06;2023-02-04;2022-09-03;Réalisé
+OP01-J05;OP01;5;Livraison tranche 1;2024-09-11;2024-11-10;2024-10-31;Réalisé
+OP01-J06;OP01;6;Début commercialisation;2025-02-20;2025-04-21;2024-07-27;Réalisé
+OP01-J07;OP01;7;Première cession de lot;2025-10-04;2025-12-03;2025-12-21;Réalisé
+OP01-J08;OP01;8;Livraison tranche 2;2027-10-16;2027-12-15;;À venir
+OP01-J09;OP01;9;Clôture / quitus;2029-12-31;2030-03-01;;À venir
+OP02-J01;OP02;1;Acquisition foncière principale;2022-06-01;2022-06-01;2022-06-05;Réalisé
+OP02-J02;OP02;2;Concession / autorisation signée;2023-01-06;2023-01-06;2022-12-26;Réalisé
+OP02-J03;OP02;3;Permis d'aménager;2023-08-13;2024-03-12;2024-03-16;Réalisé
+OP02-J04;OP02;4;Démarrage des travaux VRD;2024-02-18;2024-11-17;2024-11-02;Réalisé
+OP02-J05;OP02;5;Livraison tranche 1;2025-11-06;2026-10-06;;À venir
+OP02-J06;OP02;6;Début commercialisation;2026-04-11;2027-03-11;;À venir
+OP02-J07;OP02;7;Première cession de lot;2026-11-17;2026-10-06;;À venir
+OP02-J08;OP02;8;Livraison tranche 2;2028-11-07;2029-10-07;;À venir
+OP02-J09;OP02;9;Clôture / quitus;2030-12-31;2031-11-30;;À venir
+OP03-J01;OP03;1;Acquisition foncière principale;2023-01-01;2023-01-01;2023-01-09;Réalisé
+OP03-J02;OP03;2;Concession / autorisation signée;2023-05-08;2023-05-08;2023-05-04;Réalisé
+OP03-J03;OP03;3;Permis d'aménager;2023-09-13;2023-09-13;;Réalisé
+OP03-J04;OP03;4;Démarrage des travaux VRD;2024-01-01;2024-01-01;;Réalisé
+OP03-J05;OP03;5;Livraison tranche 1;2024-12-31;2024-12-31;2024-12-24;Réalisé
+OP03-J06;OP03;6;Début commercialisation;2025-04-01;2025-04-01;2025-04-04;Réalisé
+OP03-J07;OP03;7;Première cession de lot;2025-08-07;2025-08-07;2024-10-02;Réalisé
+OP03-J08;OP03;8;Livraison tranche 2;2026-09-30;2026-09-30;;En cours
+OP03-J09;OP03;9;Clôture / quitus;2027-12-31;2027-12-31;;À venir
+OP04-J01;OP04;1;Acquisition foncière principale;2020-09-01;2020-09-01;2020-09-09;Réalisé
+OP04-J02;OP04;2;Concession / autorisation signée;2021-04-02;2021-04-02;2021-04-06;Réalisé
+OP04-J03;OP04;3;Permis d'aménager;2021-11-01;2022-03-02;2022-03-02;Réalisé
+OP04-J04;OP04;4;Démarrage des travaux VRD;2022-05-02;2022-10-01;2022-10-13;Réalisé
+OP04-J05;OP04;5;Livraison tranche 1;2024-01-01;2024-07-01;2024-06-19;Réalisé
+OP04-J06;OP04;6;Début commercialisation;2024-06-01;2024-11-30;2024-12-05;Réalisé
+OP04-J07;OP04;7;Première cession de lot;2024-12-31;2025-07-01;2025-07-18;Réalisé
+OP04-J08;OP04;8;Livraison tranche 2;2026-12-01;2027-06-01;;À venir
+OP04-J09;OP04;9;Clôture / quitus;2028-12-31;2029-07-01;;À venir
+OP05-J01;OP05;1;Acquisition foncière principale;2022-03-01;2022-03-01;2022-03-05;Réalisé
+OP05-J02;OP05;2;Concession / autorisation signée;2022-11-07;2022-11-07;2022-11-05;Réalisé
+OP05-J03;OP05;3;Permis d'aménager;2023-07-16;2023-09-14;;Réalisé
+OP05-J04;OP05;4;Démarrage des travaux VRD;2024-02-17;2024-04-17;2024-04-21;Réalisé
+OP05-J05;OP05;5;Livraison tranche 1;2026-02-04;2026-05-06;2025-12-22;Réalisé
+OP05-J06;OP05;6;Début commercialisation;2026-08-03;2026-11-02;;À venir
+OP05-J07;OP05;7;Première cession de lot;2027-04-11;2027-07-11;;À venir
+OP05-J08;OP05;8;Livraison tranche 2;2029-07-16;2029-10-15;;À venir
+OP05-J09;OP05;9;Clôture / quitus;2031-12-31;2032-03-31;;À venir
+OP06-J01;OP06;1;Acquisition foncière principale;2024-02-01;2024-02-01;2024-02-04;Réalisé
+OP06-J02;OP06;2;Concession / autorisation signée;2024-05-11;2024-05-11;2024-05-16;Réalisé
+OP06-J03;OP06;3;Permis d'aménager;2024-08-19;2024-08-19;2024-08-07;Réalisé
+OP06-J04;OP06;4;Démarrage des travaux VRD;2024-11-12;2024-11-12;2024-08-02;Réalisé
+OP06-J05;OP06;5;Livraison tranche 1;2025-08-25;2025-08-25;2025-01-03;Réalisé
+OP06-J06;OP06;6;Début commercialisation;2025-11-05;2025-11-05;2025-11-22;Réalisé
+OP06-J07;OP06;7;Première cession de lot;2026-02-13;2026-02-13;2026-02-24;Réalisé
+OP06-J08;OP06;8;Livraison tranche 2;2027-01-07;2027-01-07;;À venir
+OP06-J09;OP06;9;Clôture / quitus;2027-12-31;2027-12-31;;À venir
+OP07-J01;OP07;1;Acquisition foncière principale;2023-09-01;2023-09-01;;Réalisé
+OP07-J02;OP07;2;Concession / autorisation signée;2024-04-26;2024-04-26;2024-04-12;Réalisé
+OP07-J03;OP07;3;Permis d'aménager;2024-12-21;2025-02-19;2025-03-09;Réalisé
+OP07-J04;OP07;4;Démarrage des travaux VRD;2025-07-13;2025-10-12;2025-09-30;Réalisé
+OP07-J05;OP07;5;Livraison tranche 1;2027-05-26;2027-09-24;;À venir
+OP07-J06;OP07;6;Début commercialisation;2027-11-13;2028-03-13;;À venir
+OP07-J07;OP07;7;Première cession de lot;2028-07-08;2028-04-25;;À venir
+OP07-J08;OP07;8;Livraison tranche 2;2030-08-31;2030-12-30;;À venir
+OP07-J09;OP07;9;Clôture / quitus;2032-12-31;2033-05-01;;À venir
+OP08-J01;OP08;1;Acquisition foncière principale;2024-10-01;2024-10-01;2024-10-09;Réalisé
+OP08-J02;OP08;2;Concession / autorisation signée;2025-05-25;2025-05-25;2025-06-16;Réalisé
+OP08-J03;OP08;3;Permis d'aménager;2026-01-16;2026-02-15;2026-03-11;Réalisé
+OP08-J04;OP08;4;Démarrage des travaux VRD;2026-08-07;2026-09-06;;En cours
+OP08-J05;OP08;5;Livraison tranche 1;2028-06-13;2028-04-27;;À venir
+OP08-J06;OP08;6;Début commercialisation;2028-11-29;2028-12-29;;À venir
+OP08-J07;OP08;7;Première cession de lot;2029-07-23;2029-08-22;;À venir
+OP08-J08;OP08;8;Livraison tranche 2;2031-09-08;2031-10-08;;À venir
+OP08-J09;OP08;9;Clôture / quitus;2033-12-31;2034-01-30;;À venir
